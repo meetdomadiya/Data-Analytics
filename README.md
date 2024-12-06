@@ -1,5 +1,6 @@
 # Data-Analytics
 
+# Store Data Analytics
 important steps:
 - Cleaned Data using find and replace functionality.
 - processed age column to make three age groups and extracted month from date.
